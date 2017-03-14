@@ -13,8 +13,8 @@ This project implements such a carousel for [material-ui](https://material-ui.co
 
 ## Installation
 ```shell
-npm i --save material-auto-rotating-carousel
-npm i --save react-swipeable-views react-motion
+npm i --save material-auto-rotating-carousel-refurb
+npm i --save react-motion
 ```
 
 ## Usage
