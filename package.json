@@ -2,7 +2,7 @@
   "name": "material-auto-rotating-carousel-refurb",
   "version": "1.0.0",
   "description": "refurbished version of material-auto-rotating-carousel",
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": {
     "url": "https://github.com/therealedsheenan/material-auto-rotating-carousel-refurb.git",
     "type": "git"
