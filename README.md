@@ -1,3 +1,6 @@
+# Disclaimer
+This is a forked repo from original codebase. The main goal of this repo is to modify some of the features of autorotating-carousel.
+
 # Material AutoRotatingCarousel [![Build Status](https://travis-ci.org/TeamWertarbyte/material-auto-rotating-carousel.svg?branch=master)](https://travis-ci.org/TeamWertarbyte/material-auto-rotating-carousel)
 
 [![NPM](https://nodei.co/npm/material-auto-rotating-carousel.png?downloads=true&stars=true)](https://nodei.co/npm/material-auto-rotating-carousel/)
@@ -94,6 +97,3 @@ render() {
 ## License
 
 The files included in this repository are licensed under the MIT license.
-
-### Disclaimer
-This is a forked repo from original codebase. The main goal of this repo is to modify some of the features of autorotating-carousel.
